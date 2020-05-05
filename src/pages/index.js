@@ -45,7 +45,8 @@ const IndexPage = () => {
    * @example Here this is and example of being used to zoom in and set a popup on load
    */
 
-  async function mapEffect({ leafletElement } = {}) {
+  async function mapEffect({ leafletElement: map } = {}) {
+  }
     if ( !leafletElement ) return;
 
     const popup = L.popup({
@@ -101,6 +102,6 @@ const IndexPage = () => {
       </Container>
     </Layout>
   );
-};
+;
 
 export default IndexPage;
