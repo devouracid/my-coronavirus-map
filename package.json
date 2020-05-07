@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-leaflet",
-  "description": "A Gatsby starter with Leafet!",
+  "name": "my-covid-19-map",
+  "description": " Student Project for Coronavirus",
   "version": "0.2.4",
-  "author": "Colby Fayock <hello@colbyfayock.com>",
+  "author": "David Cuero",
   "dependencies": {
      "axios": "0.19.2",
     "gatsby": "^2.20.12",
