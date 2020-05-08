@@ -21,16 +21,4 @@ const Header = () => {
   );
 };
 
-
-export default function Home() {
-  return (
-    <div>
-      <a href="https://sivart-wright.github.io/covidAppFinal/" target="_blank" rel="noopener noreferrer">
-       https://sivart-wright.github.io/covidAppFinal/
-
-      </a>
-    </div>
-  )
-}
-
 export default Header;
