@@ -10,16 +10,13 @@ const Header = () => {
         <p>Coronavirus Map</p>
         <ul>
           <li>
-            <Link to="/">Home</Link>
+            <Link to="/">Mapink>
           </li>
           <li>
             <Link to="/page-2/">Coronavirus FAQ</Link>
            </li>
            <li>
-           <script type="text/javascript">
-document.write('COVID-19 Local Information '.link('https://sivart-wright.github.io/covidAppFinal/
-'));
-</script>
+           <Link to="/">Home</Link>
           </li>
         </ul>
       </Container>
