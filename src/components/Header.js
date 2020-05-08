@@ -10,13 +10,10 @@ const Header = () => {
         <p>Coronavirus Map</p>
         <ul>
           <li>
-            <Link to="/">Mapink>
+            <Link to="/">Home</Link>
           </li>
           <li>
             <Link to="/page-2/">Coronavirus FAQ</Link>
-           </li>
-           <li>
-           <Link to="/">Home</Link>
           </li>
         </ul>
       </Container>
